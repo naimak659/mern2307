@@ -21,3 +21,27 @@ li {
   justify-content: center;
   
 }
+#footerFull{
+    background: #606E8C;
+    margin: 0;
+    padding: 50px 0;
+}
+.footerTop{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footerHeader {
+    color: white;
+}
+ul,ol{
+    list-style: none;
+}
+.footerbottomp1 ul li {
+    color: white;
+    padding: 5px 0;
+}
+.footerbottom {
+    display: flex;
+    justify-content: space-between;
+}
